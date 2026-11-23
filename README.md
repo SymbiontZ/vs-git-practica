@@ -1,1 +1,3 @@
-# Practica GIT VS - Autores: Lucía Gutiérrez y Fabio Rojas
+# Practica GIT VS
+
+*Autores: Lucía Gutiérrez y Fabio Rojas*
