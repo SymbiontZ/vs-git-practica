@@ -1,1 +1,1 @@
-# Practica 8 VS
+# Practica GIT VS - Autores: Lucía Gutiérrez y Fabio Rojas
